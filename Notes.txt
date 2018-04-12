@@ -1,0 +1,9 @@
+AWS Global Infrastructure:
+Region -> 2 or more Availability zone 
+Edge Location -> CDN network, cached data for faster download. CloudFront -> Amazon's CDN.
+
+Compute:
+EC2: Elastic Compute Cloud 
+EC2: Container services
+Elastic Bean Stalk: Uploading code and it automatically provisions machine.
+Lambda: Serverless architecture, Upload code and control when that gets executed
